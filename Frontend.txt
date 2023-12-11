@@ -1,4 +1,4 @@
 ASD baru
 
 Tambah fitur:
-- Dark mode
+- Dark mode navbar doang
