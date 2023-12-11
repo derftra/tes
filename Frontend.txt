@@ -2,3 +2,4 @@ ASD baru
 
 Tambah fitur:
 - Dark mode navbar doang
+- Tambah light mode
