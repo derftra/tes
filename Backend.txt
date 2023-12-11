@@ -1,5 +1,5 @@
 ASd2
 
 Tambah API Buku
-Tambah API peminjaman
-Tambah API perpustakaan
+Tambah API bebas
+Hapus API perpustakaan
