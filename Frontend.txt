@@ -2,3 +2,4 @@ ASD baru
 
 Tambah fitur:
 - Dark mode
+- Tambah light mode
